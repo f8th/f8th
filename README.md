@@ -1,75 +1,62 @@
-<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">Data-driven problem solver with a passion of AI</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anonymous3017&label=Profile%20views&color=0e75b6&style=flat" alt="Anonymous3017" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003300,100:00ff00&text=Hi,%20I'm%20Ayush%20Gupta&fontSize=50&fontColor=00ff00&animation=fadeIn)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Deep+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
-<img align= "right" alt="coding" width = "400" src = "https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</div>
 
-- 🔭 I’m currently working on **AI/ML**
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning **DeepLearning**
+## About Me
 
-- 👯 I’m looking to collaborate on on real world projects
+- Working on **AI/ML**
+- Currently learning **Deep Learning**
+- Looking to collaborate on **real-world projects**
+- Ask me about **Flask, Python, AI/ML**
+- Reach me at **ayushgupta9592@gmail.com**
+- Fun fact: **What do you call a turtle that surfs the Dark Web? A TORtoise**
 
-- 💬 Ask me about **flask, python, AI/ML**
+---
 
-- 📫 How to reach me **ayushgupta9592@gmail.com**
-- 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-838823227/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushgupta7434/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgupta9592@gmail.com)
 
-- ⚡ Fun fact **What do you call a turtle that surfs the Dark Web? A TORtoise**
-<!-- -  <img src="https://res.cloudinary.com/js-projects/image/upload/v1671219502/WEB_DEVELOPER_jaztsb.png" alt="Girl in a jacket" width="100%" height="300px" > . -->
+---
 
--  
+## Tech Stack
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p align="center"> <a href="https://f8th.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=Anonymous3017&theme=monokai" alt=Anonymous3017" /></a> </p>
+---
 
+## GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ayush-gupta-838823227/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/ayush-gupta-838823227/" height="30" width="40" /></a><a href="https://www.instagram.com/ayushgupta7434/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://www.instagram.com/ayushgupta7434/" height="30" width="40" /></a>
-<!-- <a href="https://leetcode.com/ayushgupta9592/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushgupta9592/" height="30" width="40" /></a> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=f8th&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="python" width="40" height="40"/> </a> -->
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
-<!-- for github -->
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
- </p>
+---
 
+## GitHub Trophies
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=f8th&theme=matrix&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
-<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
+### Random Dev Quote
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p> -->
-<!--  This line of code is for no. of languages used in my github account -->
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anonymous3017&show_icons=true&locale=en&layout=compact" alt="Anonymous3017" /></p>
- 
- <!--  This line of code is for the stats of github account -->
-<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anonymous3017&show_icons=true&locale=en" alt="Anonymous3017" /></p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anonymous3017&" alt="Anonymous3017" /></p>
-<p><img align="center" src="https://leetcode.card.workers.dev/Anonymous3017?theme=dark&font=baloo&extension=null" /></p>
+---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=f8th&icon=0&color=3" alt="Profile Views" />
+</p>
