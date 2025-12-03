@@ -50,9 +50,9 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=f8th&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=f8th&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -73,6 +73,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=f8th&icon=0&color=3" alt="Profile Views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f8th&label=Profile%20views&color=00ff00&style=flat" alt="f8th" /> </p>
